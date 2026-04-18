@@ -1,14 +1,14 @@
 # Market-Analysis-and-Strategy-Development-for-Patanjali-Ayurved-Ltd.-Nov.-2018---Dec.-2018
-## 📌 Project Overview
+##  Project Overview
 This project analyzes the market position of Patanjali Ayurved Ltd. and proposes strategies to enhance its market share and customer engagement.
 
-## 🎯 Objective
+##  Objective
 - Evaluate market position
 - Analyze competitors
 - Study consumer behavior
 - Provide strategic recommendations
 
-## 🛠 Methodology
+## Methodology
 - Market research
 - Competitor analysis
 - Consumer behavior study
@@ -41,5 +41,5 @@ This project analyzes the market position of Patanjali Ayurved Ltd. and proposes
    ## 📊 Visualization
 ![Market Share](https://github.com/Mansi259/Market-Analysis-and-Strategy-Development-for-Patanjali-Ayurved-Ltd.-Nov.-2018---Dec.-2018/blob/main/market_share.png)
 
-## 👩‍💻 Author
+##  Author
 CFA Club Project
