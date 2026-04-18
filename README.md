@@ -39,7 +39,7 @@ This project analyzes the market position of Patanjali Ayurved Ltd. and proposes
 - analysis.py
   
    ## 📊 Visualization
-![Market Share]()
+![Market Share](https://github.com/Mansi259/Market-Analysis-and-Strategy-Development-for-Patanjali-Ayurved-Ltd.-Nov.-2018---Dec.-2018/blob/main/market_share.png)
 
 ## 👩‍💻 Author
 CFA Club Project
